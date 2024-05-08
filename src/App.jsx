@@ -208,21 +208,22 @@ function App() {
         </table>
       </div>
       <iframe
+        title="Rain Viewer Map"
         src="https://www.rainviewer.com/map.html?loc=13.7563,100.5018,8&oFa=0&oC=0&oU=0&oCS=1&oF=0&oAP=0&c=3&o=83&lm=1&layer=radar&sm=1&sn=1&hu=false"
         width="100%"
-        frameBorder="0"
-        // style="border:0;height:50vh;"
+        border="0"
         style={{ border: 0, height: "50vh" }}
-        allowfullscreen
-      ></iframe>
+        allowFullScreen
+      />
 
       <iframe
+        title="Windy Map Embed"
         width="100%"
         height="450"
         src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=°C&metricWind=km/h&zoom=9&overlay=temp&product=ecmwf&level=surface&lat=13.645&lon=100.646"
-        frameBorder="0"
-        allowfullscreen
-      ></iframe>
+        border="0"
+        allowFullScreen
+      />
     </>
   );
 }
