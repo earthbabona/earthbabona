@@ -1,0 +1,8216 @@
+{
+  "@attributes": {
+    "version": "2.0"
+  },
+  "header": {
+    "Title": "Weather Forecast 7 Days",
+    "Description": "Weather forecast of Thailand for seven days in advance.",
+    "Uri": "https://data.tmd.go.th/api/WeatherForecast7Days/v2/index.php",
+    "LastBuildDate": "2024-05-07 23:25:12",
+    "CopyRight": "Thai Meteorological Department:2565",
+    "Generator": "TMDData_API Services",
+    "status": "200 OK"
+  },
+  "Provinces": {
+    "Province": [
+      {
+        "ProvinceNameThai": "เชียงราย",
+        "ProvinceNameEnglish": "Chiang Rai",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "37.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "23.0",
+            "23.0",
+            "22.0",
+            "21.0",
+            "22.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "เชียงใหม่",
+        "ProvinceNameEnglish": "Chiang Mai",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "39.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "26.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "230",
+            "230",
+            "180",
+            "180",
+            "180",
+            "180",
+            "230"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "20",
+            "30",
+            "40",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "แม่ฮ่องสอน",
+        "ProvinceNameEnglish": "Mae Hong Son",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "38.0",
+            "38.0",
+            "39.0",
+            "40.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "23.0",
+            "23.0",
+            "23.0",
+            "23.0",
+            "23.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ตาก",
+        "ProvinceNameEnglish": "Tak",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "39.0",
+            "39.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "29.0",
+            "29.0",
+            "28.0",
+            "28.0",
+            "29.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "230",
+            "230",
+            "230",
+            "230",
+            "230",
+            "230",
+            "230"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "20",
+            "20",
+            "20",
+            "30",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "น่าน",
+        "ProvinceNameEnglish": "Nan",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "38.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "38.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "24.0",
+            "24.0",
+            "23.0",
+            "24.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "อุตรดิตถ์",
+        "ProvinceNameEnglish": "Uttaradit",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "39.0",
+            "39.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "27.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "27.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พิษณุโลก",
+        "ProvinceNameEnglish": "Phitsanulok",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "38.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "28.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "40",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "กำแพงเพชร",
+        "ProvinceNameEnglish": "Kamphaeng Phet",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "38.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "27.0",
+            "27.0",
+            "26.0",
+            "27.0",
+            "29.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "40",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พิจิตร",
+        "ProvinceNameEnglish": "Pichit",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "28.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "40",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สุโขทัย",
+        "ProvinceNameEnglish": "Sukhothai",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "39.0",
+            "39.0",
+            "38.0",
+            "38.0",
+            "39.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "27.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พะเยา",
+        "ProvinceNameEnglish": "Phayao",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "24.0",
+            "24.0",
+            "23.0",
+            "23.0",
+            "24.0",
+            "26.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ลำพูน",
+        "ProvinceNameEnglish": "Lamphun",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "39.0",
+            "38.0",
+            "38.0",
+            "38.0",
+            "38.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "27.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ลำปาง",
+        "ProvinceNameEnglish": "Lampang",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "39.0",
+            "38.0",
+            "37.0",
+            "38.0",
+            "39.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "27.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "20",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "แพร่",
+        "ProvinceNameEnglish": "Phrae",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "39.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "27.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "230",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "10",
+            "10",
+            "10",
+            "30",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "เพชรบูรณ์",
+        "ProvinceNameEnglish": "Phetchabun",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "39.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "26.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "40",
+            "40",
+            "60",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "หนองคาย",
+        "ProvinceNameEnglish": "Nong Khai",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "36.0",
+            "35.0",
+            "34.0",
+            "35.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "27.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "20",
+            "30",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "เลย",
+        "ProvinceNameEnglish": "Loei",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "36.0",
+            "35.0",
+            "34.0",
+            "35.0",
+            "36.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "24.0",
+            "24.0",
+            "24.0",
+            "23.0",
+            "23.0",
+            "23.0",
+            "23.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "8",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8",
+            "8"
+          ],
+          "PercentRainCover": [
+            "20",
+            "30",
+            "30",
+            "40",
+            "40",
+            "30",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ขอนแก่น",
+        "ProvinceNameEnglish": "Khon Kaen",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "4",
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "30",
+            "40",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "อุบลราชธานี",
+        "ProvinceNameEnglish": "Ubon Ratcha Thani",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "180",
+            "0",
+            "180",
+            "180",
+            "90",
+            "135",
+            "135"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นครราชสีมา",
+        "ProvinceNameEnglish": "Nakhon Ratchasima",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "34.0",
+            "35.0",
+            "35.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "26.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "225",
+            "270",
+            "225",
+            "180",
+            "90",
+            "90",
+            "90"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ร้อยเอ็ด",
+        "ProvinceNameEnglish": "Roi Et",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "35.0",
+            "33.0",
+            "33.0",
+            "32.0",
+            "34.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "28.0",
+            "26.0",
+            "26.0",
+            "27.0",
+            "28.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "135",
+            "0",
+            "225",
+            "90",
+            "90",
+            "90",
+            "90"
+          ],
+          "WindSpeed": [
+            "6",
+            "6",
+            "6",
+            "8",
+            "10",
+            "8",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "มุกดาหาร",
+        "ProvinceNameEnglish": "Mookdahan",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "34.0",
+            "35.0",
+            "34.0",
+            "34.0",
+            "34.0",
+            "35.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "27.0",
+            "27.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "45",
+            "90",
+            "180",
+            "45",
+            "90",
+            "90",
+            "90"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "อุดรธานี",
+        "ProvinceNameEnglish": "Udon Thani",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "34.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "20",
+            "30",
+            "40",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "หนองบัวลำภู",
+        "ProvinceNameEnglish": "Nong Bua Lam Phu",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "27.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "4",
+            "4",
+            "4",
+            "6",
+            "8",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "20",
+            "40",
+            "40",
+            "30",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นครพนม",
+        "ProvinceNameEnglish": "Nakhon Phanom",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "24.0",
+            "25.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "6",
+            "6",
+            "6",
+            "8",
+            "8",
+            "10"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "30",
+            "40",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สกลนคร",
+        "ProvinceNameEnglish": "Sakon Nakhon",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "30",
+            "40",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "มหาสารคาม",
+        "ProvinceNameEnglish": "Maha Sarakham",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8",
+            "6"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "40",
+            "30",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "กาฬสินธุ์",
+        "ProvinceNameEnglish": "Kalasin",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "24.0",
+            "26.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "6",
+            "8"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "30",
+            "40",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ชัยภูมิ",
+        "ProvinceNameEnglish": "Chaiyaphum",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "24.0",
+            "25.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "6",
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "8"
+          ],
+          "PercentRainCover": [
+            "20",
+            "30",
+            "30",
+            "40",
+            "40",
+            "30",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ศรีสะเกษ",
+        "ProvinceNameEnglish": "Sri Saked",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "135",
+            "90",
+            "180",
+            "180",
+            "135",
+            "135",
+            "135"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ยโสธร",
+        "ProvinceNameEnglish": "Yasothon",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "35.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "45",
+            "90",
+            "180",
+            "180",
+            "90",
+            "90",
+            "90"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สุรินทร์",
+        "ProvinceNameEnglish": "Surin",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "28.0",
+            "27.0",
+            "27.0",
+            "28.0",
+            "28.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "135",
+            "315",
+            "180",
+            "180",
+            "135",
+            "135",
+            "135"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "บุรีรัมย์",
+        "ProvinceNameEnglish": "Buri Rum",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "34.0",
+            "35.0",
+            "35.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "26.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "135",
+            "315",
+            "180",
+            "180",
+            "45",
+            "0",
+            "0"
+          ],
+          "WindSpeed": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "อำนาจเจริญ",
+        "ProvinceNameEnglish": "Amnat Chareon",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "35.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "45",
+            "45",
+            "180",
+            "45",
+            "45",
+            "45",
+            "45"
+          ],
+          "WindSpeed": [
+            "6",
+            "8",
+            "10",
+            "13",
+            "14",
+            "11",
+            "11"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "20",
+            "30",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "กาญจนบุรี",
+        "ProvinceNameEnglish": "Kanchanaburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "39.0",
+            "39.0",
+            "40.0",
+            "41.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นครสวรรค์",
+        "ProvinceNameEnglish": "Nakhon Sawan",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "39.0",
+            "39.0",
+            "40.0",
+            "41.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "28.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "กรุงเทพมหานคร",
+        "ProvinceNameEnglish": "Bangkok",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "37.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "28.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สุพรรณบุรี",
+        "ProvinceNameEnglish": "Suphan Buri",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "39.0",
+            "39.0",
+            "40.0",
+            "41.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "27.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ชัยนาท",
+        "ProvinceNameEnglish": "Chainat",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "41.0",
+            "41.0",
+            "40.0",
+            "40.0",
+            "41.0",
+            "42.0",
+            "41.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "26.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ลพบุรี",
+        "ProvinceNameEnglish": "Lop Buri",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "39.0",
+            "38.0",
+            "38.0",
+            "39.0",
+            "40.0",
+            "39.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "28.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พระนครศรีอยุธยา",
+        "ProvinceNameEnglish": "Ayutthaya",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "39.0",
+            "39.0",
+            "40.0",
+            "41.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ราชบุรี",
+        "ProvinceNameEnglish": "Ratchaburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "38.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ปทุมธานี",
+        "ProvinceNameEnglish": "Pathum Thani",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "39.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "27.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "27.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สระบุรี",
+        "ProvinceNameEnglish": "Sara Buri",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "39.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สิงห์บุรี",
+        "ProvinceNameEnglish": "Sing Buri",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "39.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สมุทรสงคราม",
+        "ProvinceNameEnglish": "Samut Songkhram",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "34.0",
+            "34.0",
+            "33.0",
+            "33.0",
+            "34.0",
+            "35.0",
+            "34.0"
+          ],
+          "MinimumTemperature": [
+            "22.0",
+            "21.0",
+            "20.0",
+            "20.0",
+            "20.0",
+            "21.0",
+            "22.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "อ่างทอง",
+        "ProvinceNameEnglish": "Ang Thong",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "38.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "อุทัยธานี",
+        "ProvinceNameEnglish": "Uthai Thani",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "39.0",
+            "39.0",
+            "40.0",
+            "41.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "28.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นนทบุรี",
+        "ProvinceNameEnglish": "Nonthaburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นครปฐม",
+        "ProvinceNameEnglish": "Nakhon Pathom",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "39.0",
+            "39.0",
+            "40.0",
+            "41.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สมุทรปราการ",
+        "ProvinceNameEnglish": "Samut Prakan",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "35.0",
+            "34.0",
+            "34.0",
+            "35.0",
+            "36.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "24.0",
+            "23.0",
+            "22.0",
+            "22.0",
+            "22.0",
+            "23.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สมุทรสาคร",
+        "ProvinceNameEnglish": "Samut Sakhon",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "32.0",
+            "32.0",
+            "32.0",
+            "33.0",
+            "34.0",
+            "34.0",
+            "34.0"
+          ],
+          "MinimumTemperature": [
+            "14.0",
+            "14.0",
+            "15.0",
+            "17.0",
+            "19.0",
+            "21.0",
+            "22.0"
+          ],
+          "WindDirection": [
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180",
+            "180"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สระแก้ว",
+        "ProvinceNameEnglish": "Sakaeo",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "39.0",
+            "38.0",
+            "38.0",
+            "39.0",
+            "38.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ชลบุรี",
+        "ProvinceNameEnglish": "Chonburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "28.0",
+            "27.0",
+            "27.0",
+            "28.0",
+            "28.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ระยอง",
+        "ProvinceNameEnglish": "Rayong",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "34.0",
+            "33.0",
+            "33.0",
+            "34.0",
+            "33.0",
+            "34.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ปราจีนบุรี",
+        "ProvinceNameEnglish": "Prachinburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "39.0",
+            "38.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "37.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "24.0",
+            "23.0",
+            "23.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "70"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ตราด",
+        "ProvinceNameEnglish": "Trad",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "34.0",
+            "33.0",
+            "32.0",
+            "32.0",
+            "33.0",
+            "32.0",
+            "33.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "26.0",
+            "26.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "จันทบุรี",
+        "ProvinceNameEnglish": "Chantaburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "34.0",
+            "33.0",
+            "33.0",
+            "34.0",
+            "33.0",
+            "34.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "24.0",
+            "23.0",
+            "23.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ฉะเชิงเทรา",
+        "ProvinceNameEnglish": "Chacheongsao",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "24.0",
+            "23.0",
+            "23.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นครนายก",
+        "ProvinceNameEnglish": "Nakhon Nayok",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "25.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "70"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พัทยา",
+        "ProvinceNameEnglish": "Pattaya",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "36.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "30.0",
+            "29.0",
+            "28.0",
+            "28.0",
+            "29.0",
+            "29.0",
+            "30.0"
+          ],
+          "WindDirection": [
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130",
+            "130"
+          ],
+          "WindSpeed": [
+            "3",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "20",
+            "30",
+            "30",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ประจวบคีรีขันธ์",
+        "ProvinceNameEnglish": "Prachaup Khiri Kan",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "35.0",
+            "35.0",
+            "33.0",
+            "33.0",
+            "35.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "29.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "30",
+            "40",
+            "40",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ชุมพร",
+        "ProvinceNameEnglish": "Chumphon",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "36.0",
+            "34.0",
+            "34.0",
+            "36.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "26.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "30",
+            "40",
+            "40",
+            "20",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นครศรีธรรมราช",
+        "ProvinceNameEnglish": "Nakhon Sri Thammarat",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "38.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "30",
+            "30",
+            "40",
+            "40",
+            "40",
+            "20",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "นราธิวาส",
+        "ProvinceNameEnglish": "Narathiwat",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "34.0",
+            "33.0",
+            "33.0",
+            "33.0",
+            "35.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "30",
+            "40",
+            "40",
+            "40",
+            "10",
+            "20"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝน",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สุราษฎร์ธานี",
+        "ProvinceNameEnglish": "Surat Thani",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "38.0",
+            "38.0",
+            "38.0",
+            "38.0",
+            "40.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "20",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ยะลา",
+        "ProvinceNameEnglish": "Yala",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "38.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "38.0",
+            "38.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "40",
+            "40",
+            "40",
+            "20",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ปัตตานี",
+        "ProvinceNameEnglish": "Pattani",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "37.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "30",
+            "40",
+            "40",
+            "40",
+            "10",
+            "20"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝน",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สงขลา",
+        "ProvinceNameEnglish": "Songkhla",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "40",
+            "30",
+            "40",
+            "20",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "เพชรบุรี",
+        "ProvinceNameEnglish": "Phetburi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0",
+            "28.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "หัวหิน (ประจวบคีรีขันธ์)",
+        "ProvinceNameEnglish": "Hua Hin (Prachaup Khiri Kan)",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "40.0",
+            "40.0",
+            "40.0",
+            "38.0",
+            "38.0",
+            "40.0",
+            "40.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "30",
+            "40",
+            "40",
+            "30",
+            "30"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "เกาะสมุย (สุราษฎร์ธานี)",
+        "ProvinceNameEnglish": "Kho Samui (Surat Thani)",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "31.0",
+            "31.0",
+            "31.0",
+            "31.0",
+            "31.0",
+            "33.0",
+            "31.0"
+          ],
+          "MinimumTemperature": [
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0",
+            "29.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "40",
+            "40",
+            "40",
+            "20",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "สงบ",
+            "สงบ",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "สงบ",
+            "สงบ"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Calm",
+            "Calm",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Calm",
+            "Calm"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พัทลุง",
+        "ProvinceNameEnglish": "Pattalung",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "36.0",
+            "37.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "40",
+            "40",
+            "40",
+            "20",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ระนอง",
+        "ProvinceNameEnglish": "Ranong",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "120",
+            "100",
+            "100",
+            "110",
+            "100",
+            "100",
+            "310"
+          ],
+          "WindSpeed": [
+            "10",
+            "10",
+            "10",
+            "10",
+            "10",
+            "10",
+            "11"
+          ],
+          "PercentRainCover": [
+            "40",
+            "30",
+            "40",
+            "40",
+            "30",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m."
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ภูเก็ต",
+        "ProvinceNameEnglish": "Phuket",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "27.0",
+            "26.0",
+            "25.0",
+            "26.0",
+            "25.0",
+            "26.0",
+            "27.0"
+          ],
+          "WindDirection": [
+            "100",
+            "100",
+            "100",
+            "110",
+            "100",
+            "120",
+            "100"
+          ],
+          "WindSpeed": [
+            "7",
+            "8",
+            "8",
+            "8",
+            "9",
+            "8",
+            "10"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "60",
+            "60",
+            "40",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m."
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "กระบี่",
+        "ProvinceNameEnglish": "Krabi",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "110",
+            "100",
+            "100",
+            "120",
+            "100",
+            "100",
+            "120"
+          ],
+          "WindSpeed": [
+            "10",
+            "10",
+            "10",
+            "11",
+            "10",
+            "10",
+            "11"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "60",
+            "60",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m."
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "ตรัง",
+        "ProvinceNameEnglish": "Trang",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "37.0",
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "26.0",
+            "26.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "110",
+            "100",
+            "110",
+            "120",
+            "100",
+            "90",
+            "110"
+          ],
+          "WindSpeed": [
+            "8",
+            "9",
+            "8",
+            "9",
+            "10",
+            "10",
+            "10"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "60",
+            "60",
+            "40",
+            "40",
+            "60"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m."
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "พังงา",
+        "ProvinceNameEnglish": "Pang Nga",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "35.0",
+            "34.0",
+            "34.0",
+            "36.0",
+            "35.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "110",
+            "100",
+            "110",
+            "110",
+            "100",
+            "90",
+            "100"
+          ],
+          "WindSpeed": [
+            "10",
+            "10",
+            "10",
+            "11",
+            "10",
+            "10",
+            "11"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "60",
+            "60",
+            "40",
+            "40",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m."
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "สตูล",
+        "ProvinceNameEnglish": "Satun",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "35.0",
+            "35.0",
+            "34.0",
+            "34.0",
+            "35.0",
+            "36.0",
+            "35.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "26.0",
+            "25.0",
+            "24.0",
+            "25.0",
+            "25.0",
+            "26.0"
+          ],
+          "WindDirection": [
+            "120",
+            "110",
+            "120",
+            "110",
+            "100",
+            "100",
+            "120"
+          ],
+          "WindSpeed": [
+            "11",
+            "10",
+            "10",
+            "11",
+            "10",
+            "10",
+            "10"
+          ],
+          "PercentRainCover": [
+            "40",
+            "40",
+            "60",
+            "60",
+            "40",
+            "60",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ],
+          "WaveHeightThai": [
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร",
+            "คลื่นสูง 1-2 เมตร"
+          ],
+          "WaveHeightThaiEnglish": [
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m.",
+            "Wave Height 1-2 m."
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "หาดใหญ่",
+        "ProvinceNameEnglish": "Hatyai",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "37.0",
+            "38.0",
+            "37.0"
+          ],
+          "MinimumTemperature": [
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0",
+            "25.0"
+          ],
+          "WindDirection": [
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140",
+            "140"
+          ],
+          "WindSpeed": [
+            "5",
+            "5",
+            "6",
+            "6",
+            "6",
+            "5",
+            "5"
+          ],
+          "PercentRainCover": [
+            "30",
+            "40",
+            "40",
+            "30",
+            "40",
+            "20",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝน",
+            "ฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Rain",
+            "Heavy Rain"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      },
+      {
+        "ProvinceNameThai": "บึงกาฬ",
+        "ProvinceNameEnglish": "Bueng Kan",
+        "SevenDaysForecast": {
+          "ForecastDate": [
+            "13/05/2024",
+            "12/05/2024",
+            "11/05/2024",
+            "10/05/2024",
+            "09/05/2024",
+            "08/05/2024",
+            "07/05/2024"
+          ],
+          "MaximumTemperature": [
+            "36.0",
+            "36.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "35.0",
+            "36.0"
+          ],
+          "MinimumTemperature": [
+            "26.0",
+            "25.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "24.0",
+            "24.0"
+          ],
+          "WindDirection": [
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120",
+            "120"
+          ],
+          "WindSpeed": [
+            "4",
+            "6",
+            "6",
+            "4",
+            "4",
+            "6",
+            "6"
+          ],
+          "PercentRainCover": [
+            "20",
+            "20",
+            "20",
+            "30",
+            "30",
+            "30",
+            "40"
+          ],
+          "DescriptionThai": [
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "ฝนฟ้าคะนอง",
+            "พายุฝนฟ้าคะนอง"
+          ],
+          "DescriptionEnglish": [
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Heavy Rain",
+            "Thunder Storm"
+          ],
+          "TemperatureThai": [
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ",
+            "ปกติ"
+          ],
+          "TemperatureEnglish": [
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal",
+            "Normal"
+          ]
+        }
+      }
+    ]
+  }
+}
